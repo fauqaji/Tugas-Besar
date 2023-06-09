@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: c7d45282f1a8b6f4a871ac78554b63b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5110087965224421825
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_0
+  - first:
+      213: 1256414199857084714
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_1
+  - first:
+      213: -1981923081672462605
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_2
+  - first:
+      213: -2984058497337408990
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_3
+  - first:
+      213: 1763298753450527511
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_4
+  - first:
+      213: 159608429885647365
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_5
+  - first:
+      213: -6030629426039829460
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_6
+  - first:
+      213: 5434931289025209637
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_7
+  - first:
+      213: 6843642292021399088
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_8
+  - first:
+      213: -5807499595688350425
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_9
+  - first:
+      213: -8610457989523632913
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_10
+  - first:
+      213: 8288826112326302731
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_11
+  - first:
+      213: -3419384363036945114
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_12
+  - first:
+      213: -2013340920839665717
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_13
+  - first:
+      213: 7164404643395058147
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_14
+  - first:
+      213: 2235920449805914396
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_15
+  - first:
+      213: -6362763313286707411
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_16
+  - first:
+      213: -1769435058877580735
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_17
+  - first:
+      213: -1051342048148667999
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_18
+  - first:
+      213: -563415163215559183
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_19
+  - first:
+      213: -9151100936632040797
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_20
+  - first:
+      213: 6369439132347650636
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_21
+  - first:
+      213: 7883129057081746352
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_22
+  - first:
+      213: -8915600084431004659
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_23
+  - first:
+      213: 5194962583141336562
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_24
+  - first:
+      213: -7019647992211110144
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_25
+  - first:
+      213: -8975961810090988747
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_26
+  - first:
+      213: 278419284709295465
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_27
+  - first:
+      213: -6824112481345413486
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_28
+  - first:
+      213: -5903169476808942471
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_29
+  - first:
+      213: 4069952212432273537
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_30
+  - first:
+      213: 1956384945814030187
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_31
+  - first:
+      213: 4580729243146587964
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_32
+  - first:
+      213: -510024017411824855
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_33
+  - first:
+      213: -9102789751875583228
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_34
+  - first:
+      213: 8807144461468687834
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_35
+  - first:
+      213: 6809887669901576210
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_36
+  - first:
+      213: 7038517261284745215
+    second: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 642
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36bccde1125519b0800000000000000
+      internalID: -5110087965224421825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 642
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29fc39de0eaf6110800000000000000
+      internalID: 1256414199857084714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 641
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee3c8357bce74e0800000000000000
+      internalID: -1981923081672462605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 642
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222c73d5b9e7696d0800000000000000
+      internalID: -2984058497337408990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 646
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bce48bfde787810800000000000000
+      internalID: 1763298753450527511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 640
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aed76750b073200800000000000000
+      internalID: 159608429885647365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 640
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cc0e81d76ee4ca0800000000000000
+      internalID: -6030629426039829460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 512
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525e00d3631cc6b40800000000000000
+      internalID: 5434931289025209637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 512
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e86c9c76089fe50800000000000000
+      internalID: 6843642292021399088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 512
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d65cd13ed976fa0800000000000000
+      internalID: -5807499595688350425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 512
+        width: 84
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec05052412818880800000000000000
+      internalID: -8610457989523632913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 512
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf03ede63d70370800000000000000
+      internalID: 8288826112326302731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 512
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62558aad908eb80d0800000000000000
+      internalID: -3419384363036945114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 512
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc70891891d2f04e0800000000000000
+      internalID: -2013340920839665717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 384
+        width: 72
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9b8b480141d6360800000000000000
+      internalID: 7164404643395058147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 71
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1196bc7dc5970f10800000000000000
+      internalID: 2235920449805914396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 384
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2788a95a7ce2b7a0800000000000000
+      internalID: -6362763313286707411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 384
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aba765034b177e0800000000000000
+      internalID: -1769435058877580735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 384
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1caaa3af1e861f0800000000000000
+      internalID: -1051342048148667999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 384
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c777e4e85e28f0800000000000000
+      internalID: -563415163215559183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 390
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a28d48ce22c00180800000000000000
+      internalID: -9151100936632040797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42dd06e42bc46850800000000000000
+      internalID: 6369439132347650636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 256
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3eaed5c10866d60800000000000000
+      internalID: 7883129057081746352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 262
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c1c08c5fc654480800000000000000
+      internalID: -8915600084431004659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 256
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c59df1f6381840800000000000000
+      internalID: 5194962583141336562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 256
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00709ffb753359e90800000000000000
+      internalID: -7019647992211110144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_26
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 256
+        width: 89
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bed085a4afe6380800000000000000
+      internalID: -8975961810090988747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_27
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 256
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96547b34dd42dd300800000000000000
+      internalID: 278419284709295465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed81a9ad1eb41a0800000000000000
+      internalID: -6824112481345413486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cdfdd13aab31ea0800000000000000
+      internalID: -5903169476808942471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18047d249ff5b7830800000000000000
+      internalID: 4069952212432273537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 129
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ca2b2eb9762b10800000000000000
+      internalID: 1956384945814030187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 128
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0ff51af4029f30800000000000000
+      internalID: 4580729243146587964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 128
+        width: 73
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923204fbbd70ce8f0800000000000000
+      internalID: -510024017411824855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 73
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c36603f46ca180800000000000000
+      internalID: -9102789751875583228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 66
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addd367b933493a70800000000000000
+      internalID: 8807144461468687834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218cbc461c4918e50800000000000000
+      internalID: 6809887669901576210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Taiko No Tatsujin Portable DX - Inu _ John Wada_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff15505826dda160800000000000000
+      internalID: 7038517261284745215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

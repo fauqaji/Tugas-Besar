@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: f2a46db3e22076147b62255d6a4c41ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7595574813523604015
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_0
+  - first:
+      213: 4837098425337988537
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_1
+  - first:
+      213: 4577614896873405188
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_2
+  - first:
+      213: -3801343448700275336
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_3
+  - first:
+      213: -7541961185976976697
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_4
+  - first:
+      213: -8946102003383720597
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_5
+  - first:
+      213: -429225480293763501
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_6
+  - first:
+      213: -8271180237336723875
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_7
+  - first:
+      213: 8335544158364671210
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_8
+  - first:
+      213: -6079479774206409005
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_9
+  - first:
+      213: -1516837859490187518
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_10
+  - first:
+      213: -4326734404225171598
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_11
+  - first:
+      213: -3258196357743453266
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_12
+  - first:
+      213: -6995747189744540890
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_13
+  - first:
+      213: -8776391487475002213
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_14
+  - first:
+      213: 3522593001540896463
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_15
+  - first:
+      213: -6514796511488836495
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_16
+  - first:
+      213: 6933679430102709283
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Mami_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 110
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f227af0cc07e86960800000000000000
+      internalID: 7595574813523604015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 380
+        width: 108
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54fd9c363d02340800000000000000
+      internalID: 4837098425337988537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 386
+        width: 104
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bfca6de74f68f30800000000000000
+      internalID: 4577614896873405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 210
+        width: 110
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87536f6164aee3bc0800000000000000
+      internalID: -3801343448700275336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 208
+        width: 114
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafe08a242955790800000000000000
+      internalID: -7541961185976976697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 208
+        width: 112
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6527eb50af09d380800000000000000
+      internalID: -8946102003383720597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 208
+        width: 112
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3563b8623b51b0af0800000000000000
+      internalID: -429225480293763501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 214
+        width: 110
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3050956dd63d80800000000000000
+      internalID: -8271180237336723875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec98e89f3dcda370800000000000000
+      internalID: 8335544158364671210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 176
+        width: 118
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d641471b5951aba0800000000000000
+      internalID: -6079479774206409005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 176
+        width: 118
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207393bd00c13fae0800000000000000
+      internalID: -1516837859490187518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 124
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f72bebbf954f3c0800000000000000
+      internalID: -4326734404225171598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 124
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabda30ecaf88c2d0800000000000000
+      internalID: -3258196357743453266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e6d8fefc1aee90800000000000000
+      internalID: -6995747189744540890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b945a43017ef33680800000000000000
+      internalID: -8776391487475002213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_15
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64f11eba3c2e030800000000000000
+      internalID: 3522593001540896463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf0c4f61bc695a0800000000000000
+      internalID: -6514796511488836495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Mami_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32474b994b0693060800000000000000
+      internalID: 6933679430102709283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

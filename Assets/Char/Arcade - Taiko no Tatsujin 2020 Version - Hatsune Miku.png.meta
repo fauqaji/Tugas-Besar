@@ -1,0 +1,1849 @@
+fileFormatVersion: 2
+guid: b48a7751646c7794681f4e85b774be8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7094182034420354544
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_0
+  - first:
+      213: 9125590797966981680
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_1
+  - first:
+      213: -8305617527123933198
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_2
+  - first:
+      213: 8873149691583014314
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_3
+  - first:
+      213: -7889220689694605098
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_4
+  - first:
+      213: -4694754264716035351
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_5
+  - first:
+      213: 81862101218569321
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_6
+  - first:
+      213: -3808506712064309786
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_7
+  - first:
+      213: -9209817256152637029
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_8
+  - first:
+      213: -4277094722081654829
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_9
+  - first:
+      213: 354376490685453
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_10
+  - first:
+      213: -7833943413433554334
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_11
+  - first:
+      213: 1168526102901542499
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_12
+  - first:
+      213: 4287662421274251308
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_13
+  - first:
+      213: 343390570612553983
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_14
+  - first:
+      213: -5868543205701278535
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_15
+  - first:
+      213: 3553401884721884961
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_16
+  - first:
+      213: 6328532005323002737
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_17
+  - first:
+      213: 2361905049703460400
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_18
+  - first:
+      213: 7509917093271655468
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_19
+  - first:
+      213: -4371972071753557312
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_20
+  - first:
+      213: -6466411642806233536
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_21
+  - first:
+      213: -6544134502235395420
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_22
+  - first:
+      213: 654326334902190373
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_23
+  - first:
+      213: 257161472667006106
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_24
+  - first:
+      213: 3375675403001256274
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_25
+  - first:
+      213: -5406164177402741676
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_26
+  - first:
+      213: 4420688624210168494
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_27
+  - first:
+      213: -8723622701507010598
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_28
+  - first:
+      213: -7136801128557547781
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_29
+  - first:
+      213: 7270978412715157837
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_30
+  - first:
+      213: -1059381169039278233
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_31
+  - first:
+      213: 3721786381784920759
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_32
+  - first:
+      213: -6093536864917276613
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_33
+  - first:
+      213: -5205787972674774321
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_34
+  - first:
+      213: 8122769129007618689
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_35
+  - first:
+      213: -2729510981275825382
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_36
+  - first:
+      213: 5498002364540574340
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_37
+  - first:
+      213: 3729408165958895009
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_38
+  - first:
+      213: 2739412110640937519
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_39
+  - first:
+      213: 3656119330009372362
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_40
+  - first:
+      213: 8673036665820770636
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_41
+  - first:
+      213: -8495405549084707751
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_42
+  - first:
+      213: 1356784911601976669
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_43
+  - first:
+      213: -1405649801528753713
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_44
+  - first:
+      213: 2558863565239622789
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_45
+  - first:
+      213: 7417063511656397995
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_46
+  - first:
+      213: 6124114120384105623
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_47
+  - first:
+      213: 1465815899723182453
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_48
+  - first:
+      213: 1693039884625941738
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_49
+  - first:
+      213: -7424865458266531412
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_50
+  - first:
+      213: -8427327814921165141
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_51
+  - first:
+      213: 8819403675437299776
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_52
+  - first:
+      213: -1384046944428626483
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_53
+  - first:
+      213: -7670828947685607363
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_54
+  - first:
+      213: -8167664965394789841
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_55
+  - first:
+      213: 4190225718245347599
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_56
+  - first:
+      213: -1077931727019690142
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_57
+  - first:
+      213: -8299661781605512517
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_58
+  - first:
+      213: 2135912425767338679
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_59
+  - first:
+      213: -187906815973429395
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_60
+  - first:
+      213: -7013734811609812002
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_61
+  - first:
+      213: 848257666608742763
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_62
+  - first:
+      213: 4554083226161660130
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_63
+  - first:
+      213: -4985480746884468312
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_64
+  - first:
+      213: 5765122773554586465
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_65
+  - first:
+      213: -2550946713852554405
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_66
+  - first:
+      213: 8687271380168335413
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_67
+  - first:
+      213: 2829273840119922760
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_68
+  - first:
+      213: -4727542528523510383
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_69
+  - first:
+      213: -3553431526251608655
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_70
+  - first:
+      213: -899480219102591689
+    second: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_71
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1446
+        width: 405
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd459549f8937260800000000000000
+      internalID: 7094182034420354544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1445
+        width: 772
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a35663b7c94ae70800000000000000
+      internalID: 9125590797966981680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_2
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1610
+        width: 242
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f705873dd48cbc80800000000000000
+      internalID: -8305617527123933198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_3
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1444
+        width: 430
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52cade1a2c32b70800000000000000
+      internalID: 8873149691583014314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_4
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 1449
+        width: 450
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d04714e49bd38290800000000000000
+      internalID: -7889220689694605098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_5
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 1449
+        width: 430
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab9dfbed1e8deb0800000000000000
+      internalID: -4694754264716035351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_6
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 1451
+        width: 446
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c23b7b525d22100800000000000000
+      internalID: 81862101218569321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_7
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 1449
+        width: 427
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e547bed257752bc0800000000000000
+      internalID: -3808506712064309786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_8
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 1451
+        width: 447
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9162c05008203080800000000000000
+      internalID: -9209817256152637029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_9
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 1598
+        width: 300
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7ff93e205b4a4c0800000000000000
+      internalID: -4277094722081654829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_10
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 1598
+        width: 258
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0418d4bd42410000800000000000000
+      internalID: 354376490685453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_11
+      rect:
+        serializedVersion: 2
+        x: 6517
+        y: 1598
+        width: 242
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a28c3b8fd384390800000000000000
+      internalID: -7833943413433554334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_12
+      rect:
+        serializedVersion: 2
+        x: 6874
+        y: 1598
+        width: 309
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec73aac40773010800000000000000
+      internalID: 1168526102901542499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_13
+      rect:
+        serializedVersion: 2
+        x: 7348
+        y: 1610
+        width: 241
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d7d05146d08b30800000000000000
+      internalID: 4287662421274251308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_14
+      rect:
+        serializedVersion: 2
+        x: 7732
+        y: 1598
+        width: 296
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8749497e7f3c400800000000000000
+      internalID: 343390570612553983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 982
+        width: 434
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4a42b1c0fbe8ea0800000000000000
+      internalID: -5868543205701278535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 983
+        width: 666
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2d0bff28305130800000000000000
+      internalID: 3553401884721884961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_17
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1277
+        width: 298
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d7fe245673d750800000000000000
+      internalID: 6328532005323002737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_18
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1069
+        width: 674
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea6c8f02c27c020800000000000000
+      internalID: 2361905049703460400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_19
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 979
+        width: 439
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24571d9ec5983860800000000000000
+      internalID: 7509917093271655468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_20
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 987
+        width: 446
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca533f7092a353c0800000000000000
+      internalID: -4371972071753557312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_21
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 987
+        width: 399
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04695131fd0b246a0800000000000000
+      internalID: -6466411642806233536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_22
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 987
+        width: 446
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa1efa7509e25a0800000000000000
+      internalID: -6544134502235395420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_23
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 986
+        width: 399
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214707b552a41900800000000000000
+      internalID: 654326334902190373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_24
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 1277
+        width: 257
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94bb343ffe919300800000000000000
+      internalID: 257161472667006106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_25
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 1277
+        width: 243
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d9e8d4eec8de20800000000000000
+      internalID: 3375675403001256274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_26
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 1277
+        width: 296
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cb770e25279f4b0800000000000000
+      internalID: -5406164177402741676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_27
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1289
+        width: 263
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa48a4c1e0795d30800000000000000
+      internalID: 4420688624210168494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_28
+      rect:
+        serializedVersion: 2
+        x: 7264
+        y: 1277
+        width: 299
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf142a6f577fe680800000000000000
+      internalID: -8723622701507010598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_29
+      rect:
+        serializedVersion: 2
+        x: 7724
+        y: 1277
+        width: 259
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe68bb9f2df4fc90800000000000000
+      internalID: -7136801128557547781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_30
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 957
+        width: 257
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49ab63d754b7e460800000000000000
+      internalID: 7270978412715157837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_31
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 957
+        width: 245
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ffca980725c41f0800000000000000
+      internalID: -1059381169039278233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_32
+      rect:
+        serializedVersion: 2
+        x: 6055
+        y: 957
+        width: 297
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23d20def076a330800000000000000
+      internalID: 3721786381784920759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_33
+      rect:
+        serializedVersion: 2
+        x: 6529
+        y: 968
+        width: 262
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38bbdc91886f6ba0800000000000000
+      internalID: -6093536864917276613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_34
+      rect:
+        serializedVersion: 2
+        x: 6923
+        y: 957
+        width: 319
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca18b89b6351c7b0800000000000000
+      internalID: -5205787972674774321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_35
+      rect:
+        serializedVersion: 2
+        x: 7311
+        y: 957
+        width: 258
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a120f8c7fd9b070800000000000000
+      internalID: 8122769129007618689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_36
+      rect:
+        serializedVersion: 2
+        x: 7732
+        y: 957
+        width: 243
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc68e5934de1ad0800000000000000
+      internalID: -2729510981275825382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 516
+        width: 448
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad2b85504dc4c40800000000000000
+      internalID: 5498002364540574340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_38
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 516
+        width: 660
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5cb6ab7f481c330800000000000000
+      internalID: 3729408165958895009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_39
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 638
+        width: 243
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af724fcc8540620800000000000000
+      internalID: 2739412110640937519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_40
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 606
+        width: 697
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d5a1e8252db230800000000000000
+      internalID: 3656119330009372362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_41
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 516
+        width: 411
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c417f2655e0dc5870800000000000000
+      internalID: 8673036665820770636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_42
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 524
+        width: 399
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547ce7e9a14a1a80800000000000000
+      internalID: -8495405549084707751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_43
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 524
+        width: 399
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5545a440b444d210800000000000000
+      internalID: 1356784911601976669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_44
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 522
+        width: 399
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c745f3f02e7ce0800000000000000
+      internalID: -1405649801528753713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_45
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 522
+        width: 399
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1ccaead8e28320800000000000000
+      internalID: 2558863565239622789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_46
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 638
+        width: 294
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac7ac077f3bee660800000000000000
+      internalID: 7417063511656397995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_47
+      rect:
+        serializedVersion: 2
+        x: 6074
+        y: 649
+        width: 241
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc27578593df450800000000000000
+      internalID: 6124114120384105623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_48
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 638
+        width: 319
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571be196bcf975410800000000000000
+      internalID: 1465815899723182453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_49
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 638
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae492b11ec2ee7710800000000000000
+      internalID: 1693039884625941738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_50
+      rect:
+        serializedVersion: 2
+        x: 7319
+        y: 638
+        width: 244
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca994fe443495f890800000000000000
+      internalID: -7424865458266531412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_51
+      rect:
+        serializedVersion: 2
+        x: 7724
+        y: 640
+        width: 304
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ead1900e1c0b80800000000000000
+      internalID: -8427327814921165141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 641
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f6356ae0d46a70800000000000000
+      internalID: 8819403675437299776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 595
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdedd413a0eacce0800000000000000
+      internalID: -1384046944428626483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_54
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 317
+        width: 297
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d387a60c6bdbb8590800000000000000
+      internalID: -7670828947685607363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_55
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 147
+        width: 719
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a8d35fcff96ae80800000000000000
+      internalID: -8167664965394789841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_56
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 50
+        width: 464
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0158b8071ca62a30800000000000000
+      internalID: 4190225718245347599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_57
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 59
+        width: 399
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673ede2eca6a01f0800000000000000
+      internalID: -1077931727019690142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_58
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 57
+        width: 450
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8487459da1dc80800000000000000
+      internalID: -8299661781605512517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_59
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 57
+        width: 399
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b28431e80944ad10800000000000000
+      internalID: 2135912425767338679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_60
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 59
+        width: 447
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f67071fbb646df0800000000000000
+      internalID: -187906815973429395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_61
+      rect:
+        serializedVersion: 2
+        x: 5713
+        y: 328
+        width: 243
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b43569553aae90800000000000000
+      internalID: -7013734811609812002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_62
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 317
+        width: 299
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6147308add95cb00800000000000000
+      internalID: 848257666608742763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_63
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 317
+        width: 259
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e04eecc09a533f30800000000000000
+      internalID: 4554083226161660130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_64
+      rect:
+        serializedVersion: 2
+        x: 6932
+        y: 317
+        width: 257
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f667cca300dab0800000000000000
+      internalID: -4985480746884468312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_65
+      rect:
+        serializedVersion: 2
+        x: 7273
+        y: 317
+        width: 296
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1636c3c1e94d10050800000000000000
+      internalID: 5765122773554586465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_66
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 8
+        width: 242
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b535edfaa77399cd0800000000000000
+      internalID: -2550946713852554405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_67
+      rect:
+        serializedVersion: 2
+        x: 5631
+        y: 0
+        width: 298
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530e95a0b436f8870800000000000000
+      internalID: 8687271380168335413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_68
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 0
+        width: 257
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84047a44199934720800000000000000
+      internalID: 2829273840119922760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_69
+      rect:
+        serializedVersion: 2
+        x: 6503
+        y: 0
+        width: 259
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dddce2e15646eb0800000000000000
+      internalID: -4727542528523510383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_70
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 0
+        width: 309
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b549109adcafaec0800000000000000
+      internalID: -3553431526251608655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Taiko no Tatsujin 2020 Version - Hatsune Miku_71
+      rect:
+        serializedVersion: 2
+        x: 7289
+        y: 8
+        width: 243
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73546e1a1876483f0800000000000000
+      internalID: -899480219102591689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

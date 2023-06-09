@@ -1,0 +1,2833 @@
+fileFormatVersion: 2
+guid: d31685f986fc08740ac8c75bee037c02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1919912117071897934
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_0
+  - first:
+      213: -1448728905326452321
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_1
+  - first:
+      213: 2173840612053105490
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_2
+  - first:
+      213: -6262758201577968165
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_3
+  - first:
+      213: -2183603626476259099
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_4
+  - first:
+      213: -3721736186005051971
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_5
+  - first:
+      213: -2379525094892985349
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_6
+  - first:
+      213: 3809428752629779804
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_7
+  - first:
+      213: -1812632523223001848
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_8
+  - first:
+      213: 614432732547593063
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_9
+  - first:
+      213: 6684259620260571468
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_10
+  - first:
+      213: -6446849403090557771
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_11
+  - first:
+      213: 3827536871073693906
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_12
+  - first:
+      213: -7276813206069224476
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_13
+  - first:
+      213: -1483958209414785780
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_14
+  - first:
+      213: 2355131890100971299
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_15
+  - first:
+      213: -2643599432525771186
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_16
+  - first:
+      213: 4459030181694901265
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_17
+  - first:
+      213: 321174052071859372
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_18
+  - first:
+      213: 1838047872575477724
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_19
+  - first:
+      213: -8225097109173039462
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_20
+  - first:
+      213: -4330829873150883045
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_21
+  - first:
+      213: -2378828766820155155
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_22
+  - first:
+      213: 238711306249044997
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_23
+  - first:
+      213: 3559222545676454956
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_24
+  - first:
+      213: 709937542355471463
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_25
+  - first:
+      213: -6213849943550215116
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_26
+  - first:
+      213: 8970468479185941749
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_27
+  - first:
+      213: 8694511570783099543
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_28
+  - first:
+      213: 5770408299167478616
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_29
+  - first:
+      213: -4675238278740817928
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_30
+  - first:
+      213: -1777048932878745464
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_31
+  - first:
+      213: 6296415311189130836
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_32
+  - first:
+      213: 3973900015073228002
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_33
+  - first:
+      213: 3582784663938494144
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_34
+  - first:
+      213: -1263918727365747196
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_35
+  - first:
+      213: -8000862289217705551
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_36
+  - first:
+      213: 3941787668664627504
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_37
+  - first:
+      213: 4676261606487166639
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_38
+  - first:
+      213: -34779512350124402
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_39
+  - first:
+      213: 7457951027907552538
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_40
+  - first:
+      213: 2581378466503393658
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_41
+  - first:
+      213: 1310961745315982099
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_42
+  - first:
+      213: -979174218250468846
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_43
+  - first:
+      213: 1046507703651996196
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_44
+  - first:
+      213: -1781160037902198025
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_45
+  - first:
+      213: 3933619289199082176
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_46
+  - first:
+      213: 2202627400961508406
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_47
+  - first:
+      213: 7395320086798040758
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_48
+  - first:
+      213: 6399390894259434318
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_49
+  - first:
+      213: -8438360417005727405
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_50
+  - first:
+      213: 7210670938366457586
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_51
+  - first:
+      213: -6288417818728496063
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_52
+  - first:
+      213: 5321688277961622455
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_53
+  - first:
+      213: -3817517623372007793
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_54
+  - first:
+      213: -8977264426923011423
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_55
+  - first:
+      213: -1080762576568879330
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_56
+  - first:
+      213: 7958577621435390221
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_57
+  - first:
+      213: -1346923094325297284
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_58
+  - first:
+      213: -5758952242058077023
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_59
+  - first:
+      213: -2748175340162047893
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_60
+  - first:
+      213: -6355040755620633444
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_61
+  - first:
+      213: -2413628657263738128
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_62
+  - first:
+      213: -5138098287301767021
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_63
+  - first:
+      213: 377750985894390786
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_64
+  - first:
+      213: 5005194026423075262
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_65
+  - first:
+      213: 5371499199558234866
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_66
+  - first:
+      213: 1384273758446686715
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_67
+  - first:
+      213: 3938424574698751897
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_68
+  - first:
+      213: 3009679508951975127
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_69
+  - first:
+      213: -6065598456823003520
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_70
+  - first:
+      213: -5606929655487943315
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_71
+  - first:
+      213: 6472448081007549843
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_72
+  - first:
+      213: -102914074318940729
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_73
+  - first:
+      213: 581032938460317455
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_74
+  - first:
+      213: -5161224134807739819
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_75
+  - first:
+      213: 3968229759097321205
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_76
+  - first:
+      213: -1058225954456246339
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_77
+  - first:
+      213: -3612201843778721206
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_78
+  - first:
+      213: -2070596981730259679
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_79
+  - first:
+      213: 4716216407829764539
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_80
+  - first:
+      213: -4877179818831503131
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_81
+  - first:
+      213: 7684926315959078064
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_82
+  - first:
+      213: -5990449763281572477
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_83
+  - first:
+      213: -8735199862989724470
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_84
+  - first:
+      213: 6064838711854414287
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_85
+  - first:
+      213: 1932067173857518737
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_86
+  - first:
+      213: -3172088463544480158
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_87
+  - first:
+      213: -8997663820933295579
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_88
+  - first:
+      213: 3811104990372551008
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_89
+  - first:
+      213: -3299905762784743147
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_90
+  - first:
+      213: -7462928187140724438
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_91
+  - first:
+      213: -3209687520464177017
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_92
+  - first:
+      213: -2774184020510036778
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_93
+  - first:
+      213: -6306970153520435060
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_94
+  - first:
+      213: 6477825056721091964
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_95
+  - first:
+      213: -3623108368193968626
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_96
+  - first:
+      213: -9121674279729680292
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_97
+  - first:
+      213: 4885967437354595769
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_98
+  - first:
+      213: -7088702161600858770
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_99
+  - first:
+      213: 5557788695162057628
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_100
+  - first:
+      213: -2421801492878378889
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_101
+  - first:
+      213: 8591136788430690702
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_102
+  - first:
+      213: 2739637556248430137
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_103
+  - first:
+      213: -8321040562700872290
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_104
+  - first:
+      213: 5064566490389773139
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_105
+  - first:
+      213: 4696151537128262439
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_106
+  - first:
+      213: -3624329490497016153
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_107
+  - first:
+      213: 4754711706581498298
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_108
+  - first:
+      213: 5177295810782121179
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_109
+  - first:
+      213: 5698747933606181064
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_110
+  - first:
+      213: -6810407421712453619
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_111
+  - first:
+      213: -9026336374915969292
+    second: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_112
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1660
+        width: 182
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e90af5e5e4aa10800000000000000
+      internalID: 1919912117071897934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1626
+        width: 319
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912d2e7cb415ebe0800000000000000
+      internalID: -1448728905326452321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1621
+        width: 313
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b3eb7e4880b2e10800000000000000
+      internalID: 2173840612053105490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1620
+        width: 191
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdde7c0e8963619a0800000000000000
+      internalID: -6262758201577968165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_4
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1620
+        width: 187
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b0a9221842b1e0800000000000000
+      internalID: -2183603626476259099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_5
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1677
+        width: 285
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5a37d48acb95cc0800000000000000
+      internalID: -3721736186005051971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_6
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1649
+        width: 219
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a6c0988a3afed0800000000000000
+      internalID: -2379525094892985349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_7
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1647
+        width: 213
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d48ad644fcdd430800000000000000
+      internalID: 3809428752629779804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_8
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 1647
+        width: 244
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80519f8e25c38d6e0800000000000000
+      internalID: -1812632523223001848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_9
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1677
+        width: 201
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633fd99057e68800800000000000000
+      internalID: 614432732547593063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_10
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 1680
+        width: 165
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496e1cb5b243cc50800000000000000
+      internalID: 6684259620260571468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_11
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1680
+        width: 163
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b42950ff903886a0800000000000000
+      internalID: -6446849403090557771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_12
+      rect:
+        serializedVersion: 2
+        x: 4390
+        y: 1678
+        width: 174
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ce0d41842e1530800000000000000
+      internalID: 3827536871073693906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_13
+      rect:
+        serializedVersion: 2
+        x: 4687
+        y: 1677
+        width: 202
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb5f5b71f0930b90800000000000000
+      internalID: -7276813206069224476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_14
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 1680
+        width: 209
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c059e42fedbe76be0800000000000000
+      internalID: -1483958209414785780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_15
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 1680
+        width: 179
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327a9acd9fb1fa020800000000000000
+      internalID: 2355131890100971299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_16
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 1729
+        width: 185
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e80ef825c005bd0800000000000000
+      internalID: -2643599432525771186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_17
+      rect:
+        serializedVersion: 2
+        x: 5882
+        y: 1717
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8ba64358a1ed30800000000000000
+      internalID: 4459030181694901265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_18
+      rect:
+        serializedVersion: 2
+        x: 6165
+        y: 1701
+        width: 125
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e0d4491a057400800000000000000
+      internalID: 321174052071859372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_19
+      rect:
+        serializedVersion: 2
+        x: 6451
+        y: 1837
+        width: 89
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7160d3dce028910800000000000000
+      internalID: 1838047872575477724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_20
+      rect:
+        serializedVersion: 2
+        x: 6701
+        y: 1701
+        width: 141
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e06a4f1c59add80800000000000000
+      internalID: -8225097109173039462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_21
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 1701
+        width: 133
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b01341d2dc5e3c0800000000000000
+      internalID: -4330829873150883045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 257
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0443417d3bcfed0800000000000000
+      internalID: -2378828766820155155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1205
+        width: 258
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50408d41ba2105300800000000000000
+      internalID: 238711306249044997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_24
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1208
+        width: 244
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4b973c06e46130800000000000000
+      internalID: 3559222545676454956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_25
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1201
+        width: 199
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ccfc0fe643ad900800000000000000
+      internalID: 709937542355471463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_26
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1201
+        width: 250
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbb131668f3c9a0800000000000000
+      internalID: -6213849943550215116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_27
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1259
+        width: 218
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f477b2ed818d7c70800000000000000
+      internalID: 8970468479185941749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_28
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1262
+        width: 225
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adc08453c19a870800000000000000
+      internalID: 8694511570783099543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_29
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1262
+        width: 202
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f7d076cb941050800000000000000
+      internalID: 5770408299167478616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_30
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1344
+        width: 305
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f748535e873e1fb0800000000000000
+      internalID: -4675238278740817928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_31
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 1330
+        width: 232
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88086472967a657e0800000000000000
+      internalID: -1777048932878745464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_32
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 1330
+        width: 137
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e32cd9d5c516750800000000000000
+      internalID: 6296415311189130836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_33
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1380
+        width: 200
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4fb535201262730800000000000000
+      internalID: 3973900015073228002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_34
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 1330
+        width: 191
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce65c06bab98b130800000000000000
+      internalID: 3582784663938494144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_35
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 1330
+        width: 232
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e966e2d98a57ee0800000000000000
+      internalID: -1263918727365747196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_36
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 1330
+        width: 202
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b92c5a632a37f090800000000000000
+      internalID: -8000862289217705551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_37
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 1331
+        width: 166
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03135ca000b04b630800000000000000
+      internalID: 3941787668664627504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_38
+      rect:
+        serializedVersion: 2
+        x: 5588
+        y: 1330
+        width: 174
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae077bb72b65e040800000000000000
+      internalID: 4676261606487166639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_39
+      rect:
+        serializedVersion: 2
+        x: 5889
+        y: 1350
+        width: 132
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86d8e0c730748ff0800000000000000
+      internalID: -34779512350124402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_40
+      rect:
+        serializedVersion: 2
+        x: 6124
+        y: 1498
+        width: 105
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1560ba22f6ff7760800000000000000
+      internalID: 7457951027907552538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_41
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 1363
+        width: 123
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7107ced906e2d320800000000000000
+      internalID: 2581378466503393658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_42
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 1364
+        width: 132
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6fa7f2c8713210800000000000000
+      internalID: 1310961745315982099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_43
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1360
+        width: 115
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c5f38c364962f0800000000000000
+      internalID: -979174218250468846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 785
+        width: 223
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42213ea3631f58e00800000000000000
+      internalID: 1046507703651996196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 785
+        width: 243
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad7bce16c0847e0800000000000000
+      internalID: -1781160037902198025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_46
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 869
+        width: 275
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caf55ef6e5079630800000000000000
+      internalID: 3933619289199082176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_47
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 876
+        width: 228
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6344ade73fd419e10800000000000000
+      internalID: 2202627400961508406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_48
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 873
+        width: 219
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be78e5df6471a660800000000000000
+      internalID: 7395320086798040758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_49
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 879
+        width: 255
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f337ec143fc850800000000000000
+      internalID: 6399390894259434318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_50
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 909
+        width: 202
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35118a9b8ebe4ea80800000000000000
+      internalID: -8438360417005727405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_51
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 911
+        width: 208
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b091c303711460800000000000000
+      internalID: 7210670938366457586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_52
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 909
+        width: 216
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1448373bf4d0bb8a0800000000000000
+      internalID: -6288417818728496063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_53
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 1033
+        width: 185
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b343451b4f6ad940800000000000000
+      internalID: 5321688277961622455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_54
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 982
+        width: 175
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863e1792f3750bc0800000000000000
+      internalID: -3817517623372007793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_55
+      rect:
+        serializedVersion: 2
+        x: 4687
+        y: 981
+        width: 216
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d08a31995a6380800000000000000
+      internalID: -8977264426923011423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_56
+      rect:
+        serializedVersion: 2
+        x: 4956
+        y: 981
+        width: 230
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e177319a92c5001f0800000000000000
+      internalID: -1080762576568879330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_57
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 982
+        width: 138
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09970b2e2c827e60800000000000000
+      internalID: 7958577621435390221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_58
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 988
+        width: 67
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f78fef494ce4de0800000000000000
+      internalID: -1346923094325297284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_59
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 988
+        width: 66
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac50b5b2771410b0800000000000000
+      internalID: -5758952242058077023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_60
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 1030
+        width: 90
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60272da6158cd9d0800000000000000
+      internalID: -2748175340162047893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_61
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 1028
+        width: 140
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942a1c6a1c5ec7a0800000000000000
+      internalID: -6355040755620633444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_62
+      rect:
+        serializedVersion: 2
+        x: 6493
+        y: 1161
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f287103681118ed0800000000000000
+      internalID: -2413628657263738128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_63
+      rect:
+        serializedVersion: 2
+        x: 6703
+        y: 1027
+        width: 122
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390d55c94dec1b8b0800000000000000
+      internalID: -5138098287301767021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_64
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 787
+        width: 258
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce9cf258a0e3500800000000000000
+      internalID: 377750985894390786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_65
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 780
+        width: 272
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1cad8c275067540800000000000000
+      internalID: 5005194026423075262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_66
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 491
+        width: 217
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b6f400166b8a40800000000000000
+      internalID: 5371499199558234866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_67
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 489
+        width: 230
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11c1c26ade53310800000000000000
+      internalID: 1384273758446686715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_68
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 495
+        width: 212
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978695b84818a630800000000000000
+      internalID: 3938424574698751897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_69
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 561
+        width: 230
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4cad2419784c920800000000000000
+      internalID: 3009679508951975127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_70
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 563
+        width: 154
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08648e6275aa2dba0800000000000000
+      internalID: -6065598456823003520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_71
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 563
+        width: 178
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da9046f2f2032b0800000000000000
+      internalID: -5606929655487943315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_72
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 635
+        width: 174
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d1d97bc31c2d950800000000000000
+      internalID: 6472448081007549843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_73
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 635
+        width: 159
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d4d5d130629ef0800000000000000
+      internalID: -102914074318940729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_74
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 635
+        width: 209
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f078abb016e301800800000000000000
+      internalID: 581032938460317455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_75
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 633
+        width: 218
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552ac96aef5af58b0800000000000000
+      internalID: -5161224134807739819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_76
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 635
+        width: 165
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6312af0fbf11730800000000000000
+      internalID: 3968229759097321205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_77
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 656
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db76984e91d6051f0800000000000000
+      internalID: -1058225954456246339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_78
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 670
+        width: 156
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aee84bf81eeddc0800000000000000
+      internalID: -3612201843778721206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_79
+      rect:
+        serializedVersion: 2
+        x: 6151
+        y: 691
+        width: 139
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc8fef303c343e0800000000000000
+      internalID: -2070596981730259679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_80
+      rect:
+        serializedVersion: 2
+        x: 6430
+        y: 691
+        width: 134
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9df88d5dd537140800000000000000
+      internalID: 4716216407829764539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_81
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 691
+        width: 137
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e028d09bc6c05cb0800000000000000
+      internalID: -4877179818831503131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 366
+        width: 218
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bccac394c756aa60800000000000000
+      internalID: 7684926315959078064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_83
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 360
+        width: 221
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d67c6dda5addca0800000000000000
+      internalID: -5990449763281572477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_84
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 366
+        width: 241
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e474710656c680800000000000000
+      internalID: -8735199862989724470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_85
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 359
+        width: 199
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9be10fca2aa2450800000000000000
+      internalID: 6064838711854414287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_86
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 383
+        width: 195
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19468fbabd410da10800000000000000
+      internalID: 1932067173857518737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_87
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 114
+        width: 220
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e015e495a7af3d0800000000000000
+      internalID: -3172088463544480158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_88
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 105
+        width: 216
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52213e03d60e12380800000000000000
+      internalID: -8997663820933295579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_89
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 110
+        width: 188
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069dfd0fbc3c3e430800000000000000
+      internalID: 3811104990372551008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_90
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 213
+        width: 217
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51173f041316432d0800000000000000
+      internalID: -3299905762784743147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_91
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 215
+        width: 209
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a292a35aa5a5e6890800000000000000
+      internalID: -7462928187140724438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_92
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 215
+        width: 179
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7887abea436e473d0800000000000000
+      internalID: -3209687520464177017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_93
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 292
+        width: 68
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc2fe3e45e1089d0800000000000000
+      internalID: -2774184020510036778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_94
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 292
+        width: 66
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c807c66af042978a0800000000000000
+      internalID: -6306970153520435060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_95
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 286
+        width: 160
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d3cfe619bd5e950800000000000000
+      internalID: 6477825056721091964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_96
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 287
+        width: 153
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ad0b922228bdc0800000000000000
+      internalID: -3623108368193968626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_97
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 287
+        width: 179
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5035ef329d496180800000000000000
+      internalID: -9121674279729680292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_98
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 336
+        width: 201
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b575af4f717ec340800000000000000
+      internalID: 4885967437354595769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_99
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 345
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65bc3b01fedf9d90800000000000000
+      internalID: -7088702161600858770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_100
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 348
+        width: 156
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f0df2f5b312d40800000000000000
+      internalID: 5557788695162057628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_101
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 356
+        width: 143
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778397c9f58046ed0800000000000000
+      internalID: -2421801492878378889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_102
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 356
+        width: 139
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89933b2469d93770800000000000000
+      internalID: 8591136788430690702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_103
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 355
+        width: 129
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936c18997d5250620800000000000000
+      internalID: 2739637556248430137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 173
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95199ae1b9b58c80800000000000000
+      internalID: -8321040562700872290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 191
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b7709c364f84640800000000000000
+      internalID: 5064566490389773139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_106
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 174
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4fe511f41c2140800000000000000
+      internalID: 4696151537128262439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_107
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 213
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee3f9e78bc3bdc0800000000000000
+      internalID: -3624329490497016153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_108
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 160
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab97e280b112cf140800000000000000
+      internalID: 4754711706581498298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_109
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 13
+        width: 230
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc49c20c1379d740800000000000000
+      internalID: 5177295810782121179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_110
+      rect:
+        serializedVersion: 2
+        x: 6158
+        y: 20
+        width: 132
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c876176d05061f40800000000000000
+      internalID: 5698747933606181064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_111
+      rect:
+        serializedVersion: 2
+        x: 6432
+        y: 20
+        width: 139
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00352578829c71a0800000000000000
+      internalID: -6810407421712453619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Taiko no Tatsujin Drum n Fun - Tetsuo_112
+      rect:
+        serializedVersion: 2
+        x: 6703
+        y: 20
+        width: 118
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe42fdf3e20cb280800000000000000
+      internalID: -9026336374915969292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
